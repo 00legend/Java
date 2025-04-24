@@ -1,0 +1,96 @@
+### **📅 3-Month DSA Interview Prep Plan (Focused & Effective)**  
+
+This plan balances **DSA + Problem-Solving Speed + Mock Interviews**, covering your list systematically.  
+
+---
+
+## **🗓️ Month 1: Foundations & Core Problem-Solving**  
+✅ **Goal:** Strengthen **arrays, strings, searching, sorting, linked lists**, and basic DP.  
+
+### **Week 1: Arrays & Strings**  
+- Two Sum, Best Time to Buy and Sell Stock  
+- Contains Duplicate, Product of Array Except Self  
+- Maximum Subarray, Maximum Product Subarray  
+- 3 Sum, Container With Most Water  
+- String to Integer (atoi), Valid Anagram, First Non-Repeating Character  
+- Longest Substring Without Repeating Characters  
+
+### **Week 2: Searching, Sorting, & Matrix**  
+- Search in Rotated Sorted Array, Find Minimum in Rotated Sorted Array  
+- Sort 0s, 1s, 2s, Count Inversions  
+- Merge Intervals, Insert and Merge Interval  
+- Matrix: Spiral Traversal, Set Matrix Zeroes, Rotate Image  
+- Word Search  
+
+### **Week 3: Linked List & Stack/Queue**  
+- Reverse a Linked List, Detect Cycle in a Linked List  
+- Merge Two Sorted Lists, Merge K Sorted Lists  
+- LRU Cache, Min Stack  
+- Sliding Window Maximum  
+- Longest Valid Parentheses  
+
+### **Week 4: Recap & Mock Interview (Topic-Wise Tests)**  
+- Solve **randomly mixed** problems to test knowledge.  
+- Start **mock interviews** on platforms like Pramp or Interviewing.io.  
+
+---
+
+## **🗓️ Month 2: Trees, Graphs & Advanced Concepts**  
+✅ **Goal:** Cover **Trees, Graphs, Greedy, and DP patterns.**  
+
+### **Week 5: Trees (Binary & BST)**  
+- Maximum Depth of Binary Tree, Same Tree  
+- Construct Binary Tree from Preorder and Inorder  
+- Lowest Common Ancestor, Validate BST  
+- Binary Tree Maximum Path Sum  
+- Largest BST in a Tree  
+
+### **Week 6: Graphs (BFS, DFS, Topological Sort, Shortest Path)**  
+- Clone Graph, Course Schedule, Number of Islands  
+- Minimum Time to Rot Oranges, Topological Sorting  
+- Cycle in Undirected & Directed Graph  
+- Minimum Cost to Connect All Points  
+
+### **Week 7: Dynamic Programming (DP)**  
+- Climbing Stairs, House Robber I & II  
+- Longest Increasing Subsequence, Coin Change  
+- Word Break, Decode Ways, Unique Paths  
+- Count Palindromic Substrings  
+- Stock Buy & Sell - Max K Transactions  
+
+### **Week 8: Mock Interviews & System Design Introduction**  
+- **Solve real interview questions** from your target company.  
+- Learn basics of **System Design (HLD + LLD)**—just an overview.  
+
+---
+
+## **🗓️ Month 3: Revision, Speed, & Company-Specific Prep**  
+✅ **Goal:** **Speed up** problem-solving, attempt **mock tests**, and solve **company-specific** questions.  
+
+### **Week 9: Hashing, Tries, and Prefix Sum**  
+- Longest Consecutive Sequence, Count Subarrays with Given XOR  
+- Implement Trie, Add and Search Word  
+- Product of Array Except Self  
+
+### **Week 10-11: Mock Interviews & Focus on Target Companies**  
+- **Google, Amazon, Microsoft, etc.**—check **Glassdoor & Leetcode** for past interview questions.  
+- Time-based coding **(60 min per problem)** to improve speed.  
+- **Revisit weak areas** & repeat questions you struggled with.  
+
+### **Week 12: Final Sprint – Mock Interviews & System Design**  
+- **5+ Mock Interviews** (Leetcode, Pramp, Interviewing.io).  
+- Revise **Tree, Graph, and DP** heavy problems.  
+- Quick overview of **OS, DBMS, and OOPs concepts.**  
+
+---
+
+## **🔥 Bonus Tips for Success**
+✅ **Time Management:** 1-2 hours of coding + 30 min revision daily.  
+✅ **Keep Notes:** Write **approaches & edge cases** for revision.  
+✅ **Mock Interviews:** Start early to avoid last-minute stress.  
+✅ **Consistency Matters!** Even **1 problem/day** is better than random practice.  
+
+---
+
+### 🚀 **Ready to Focus on a Specific Company?**  
+Let me know if you want a **Google, Amazon, or Microsoft-specific** plan. 💡

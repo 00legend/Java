@@ -1,0 +1,203 @@
+Here are 100 beginner-friendly questions to master the basics of conditional statements, loops, patterns, and strings in Java:
+
+---
+
+### **Conditional Statements (20 Questions)**
+1. Write a program to check if a number is positive, negative, or zero.
+2. Write a program to find the largest of three numbers.
+3. Check if a year is a leap year.
+4. Write a program to find if a number is even or odd.
+5. Write a program to find the grade based on marks using `if-else`.
+6. Write a program to display the day of the week using `switch`.
+7. Write a program to check if a character is a vowel or consonant.
+8. Check if a character is uppercase, lowercase, or a digit.
+9. Write a program to compare two integers.
+10. Write a program to determine eligibility for voting based on age.
+11. Find whether a number lies in the range [10, 50].
+12. Check if a number is divisible by both 5 and 7.
+13. Write a program to calculate electricity bill using different slabs.
+14. Determine the quadrant of a point in a 2D plane.
+15. Write a program to classify a triangle (scalene, isosceles, equilateral).
+16. Find if a number is divisible by 3 or 5 but not both.
+17. Write a program to find the roots of a quadratic equation.
+18. Check if a number is prime.
+19. Write a program to find the maximum of four numbers using nested `if`.
+20. Check if a string contains the word "Java".
+
+---
+
+### **Loops (20 Questions)**
+21. Print all numbers from 1 to 100.
+22. Print all even numbers from 1 to 100.
+23. Print all odd numbers from 1 to 100.
+24. Find the sum of all numbers from 1 to 50.
+25. Find the sum of all even numbers between 1 and 50.
+26. Find the factorial of a number.
+27. Reverse a number using a loop.
+28. Check if a number is a palindrome.
+29. Count the digits in a number.
+30. Find the sum of digits in a number.
+31. Print the multiplication table of a given number.
+32. Write a program to find the GCD of two numbers.
+33. Write a program to calculate the power of a number.
+34. Print all Fibonacci numbers up to a given number.
+35. Write a program to find if a number is an Armstrong number.
+36. Print the first `n` prime numbers.
+37. Print the numbers in reverse from 100 to 1.
+38. Find the LCM of two numbers.
+39. Write a program to print a number pyramid using a loop.
+40. Write a program to generate the following series: 2, 4, 8, 16, ...
+
+---
+
+### **Patterns (20 Questions)**
+41. Print a square pattern of stars:
+   ```
+   ****
+   ****
+   ****
+   ****
+   ```
+42. Print a right-angled triangle of stars:
+   ```
+   *
+   **
+   ***
+   ****
+   ```
+43. Print an inverted triangle of stars:
+   ```
+   ****
+   ***
+   **
+   *
+   ```
+44. Print a pyramid pattern:
+   ```
+      *
+     ***
+    *****
+   ```
+45. Print a diamond pattern:
+   ```
+      *
+     ***
+    *****
+     ***
+      *
+   ```
+46. Print numbers in a triangle:
+   ```
+   1
+   12
+   123
+   1234
+   ```
+47. Print numbers in reverse:
+   ```
+   1234
+   123
+   12
+   1
+   ```
+48. Print the following pattern:
+   ```
+   A
+   AB
+   ABC
+   ABCD
+   ```
+49. Print a hollow square:
+   ```
+   ****
+   *  *
+   *  *
+   ****
+   ```
+50. Print a checkerboard pattern:
+   ```
+   * * * *
+    * * * *
+   * * * *
+    * * * *
+   ```
+51. Print a half-pyramid using numbers:
+   ```
+   1
+   22
+   333
+   4444
+   ```
+52. Print an inverted pyramid of numbers:
+   ```
+   12345
+   1234
+   123
+   12
+   1
+   ```
+53. Print a Floyd’s triangle:
+   ```
+   1
+   2 3
+   4 5 6
+   ```
+54. Print Pascal’s triangle.
+55. Print a mirrored right-angled triangle.
+56. Print a zigzag pattern with stars.
+57. Print a spiral matrix pattern.
+58. Print a diamond of numbers.
+59. Print an hourglass pattern using numbers.
+60. Create a butterfly pattern.
+
+---
+
+### **Strings (20 Questions)**
+61. Reverse a string.
+62. Check if a string is a palindrome.
+63. Count the number of vowels in a string.
+64. Convert a string to uppercase.
+65. Convert a string to lowercase.
+66. Find the length of a string without using `length()` method.
+67. Replace a character in a string.
+68. Remove all spaces from a string.
+69. Find the frequency of each character in a string.
+70. Check if two strings are anagrams.
+71. Extract a substring from a string.
+72. Check if a string starts with a specific prefix.
+73. Check if a string ends with a specific suffix.
+74. Concatenate two strings without using `+`.
+75. Split a string based on spaces.
+76. Count the number of words in a string.
+77. Write a program to remove duplicate characters from a string.
+78. Write a program to check if a string contains only digits.
+79. Sort the characters in a string alphabetically.
+80. Reverse the words in a sentence.
+
+---
+
+### **Mix of Basics (20 Questions)**
+81. Write a program to find the largest and smallest digits in a number.
+82. Calculate the sum of the squares of digits in a number.
+83. Write a program to find the second-largest number in an array.
+84. Write a program to check if two arrays are equal.
+85. Write a program to rotate an array left by `n` positions.
+86. Find the maximum occurring character in a string.
+87. Write a program to swap two numbers without using a third variable.
+88. Write a program to check if a number is a perfect number.
+89. Write a program to find the sum of the first `n` natural numbers.
+90. Print the ASCII value of a character.
+91. Write a program to print the binary representation of a number.
+92. Write a program to print all permutations of a string.
+93. Check if a number is part of the Fibonacci series.
+94. Write a program to remove duplicates from an array.
+95. Find the intersection of two arrays.
+96. Write a program to find the first non-repeating character in a string.
+97. Write a program to merge two sorted arrays.
+98. Write a program to calculate compound interest.
+99. Write a program to count the frequency of words in a sentence.
+100. Write a program to implement a simple calculator using `switch`.
+
+---
+
+Would you like solutions for any of these?
